@@ -18,6 +18,10 @@ const Nav = () => {
           <li className={styles.navbarItem}>
             <Link href="/contact" className={styles.navbarLink}>Contact</Link>
           </li>
+          <li className={styles.navbarItem}>
+            <Link href="/contact" className={styles.navbarLink}>Contact</Link>
+          </li>
+          
         </ul>
       </div>
     </nav>

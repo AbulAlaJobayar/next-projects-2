@@ -3,7 +3,7 @@ import './globals.css'
 import { Mulish } from 'next/font/google'
  
 const mulish = Mulish({
-  weight: '400',
+  weight: ['400','500','600','700','800','900'],
   subsets: ['latin'],
   display: 'swap',
 })

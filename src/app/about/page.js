@@ -1,9 +1,10 @@
 import React from 'react';
+import Herosection from '../Component/HeroSection/Herosection';
 
 const About = () => {
     return (
         <div>
-            about page
+            <Herosection title="OUR STORY" img='./about1.svg'></Herosection>
         </div>
     );
 };
